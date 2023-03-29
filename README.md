@@ -1,5 +1,5 @@
 # Reminder-App
-
+A reminder app is an app designed to help people remember important events, tasks, or appointments. It allows users to set reminders for various activities and schedules them to receive alerts or notifications at a specific time or date. Reminder apps can be useful for managing one's personal and professional life, keeping track of deadlines, meetings, and appointments, and ensuring that important tasks are completed on time. 
 
 ## Instructions to run the game
 
